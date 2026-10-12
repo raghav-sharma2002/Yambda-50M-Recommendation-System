@@ -1,0 +1,8 @@
+torch>=2.1
+numpy
+scipy
+pandas
+pyarrow
+fastapi
+uvicorn
+pytest
